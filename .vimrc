@@ -12,7 +12,7 @@
 "           https://github.com/amix/vimrc
 
 "MY CONFIGURATION FILE (EDITED)
-in line #168 custom color
+"in line #168 custom color
 "
 " Sections:
 "    -> General
