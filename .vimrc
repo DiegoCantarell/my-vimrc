@@ -12,7 +12,6 @@
 "           https://github.com/amix/vimrc
 
 "MY CONFIGURATION FILE (EDITED)
-"in line #168 custom color
 "
 " Sections:
 "    -> General
@@ -73,7 +72,7 @@ command! W execute 'w !sudo tee % > /dev/null' <bar> edit!
 set cursorline
 
 " Highlight cursor line underneath the cursor vertically.
-set cursorcolumn
+"set cursorcolumn
 
 " Show the mode you are on the last line.
 set showmode
@@ -171,14 +170,14 @@ if $COLORTERM == 'gnome-terminal'
 endif
 
 try
-    
     "colorscheme desert
-    colorscheme elflord       
+    "colorscheme elflord
     "colorscheme evening
     "colorscheme koehler
     "colorscheme murphy
     "colorscheme slate
     "colorscheme torte
+     colorscheme PaperColor
 
 catch
 endtry
