@@ -1,3 +1,6 @@
+" EXAMPLE ADDING CUSTOM colorscheme
+"git clone https://github.com/NLKNguyen/papercolor-theme.git ~/.vim/pack/colors/start/papercolor-theme
+
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 " ORIGINAL CODE BASE FOR VIM IN:
